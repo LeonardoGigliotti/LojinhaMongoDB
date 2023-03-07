@@ -1,0 +1,7 @@
+C:\Users\etec\Desktop\LojinhaMongoDB\LojinhaServer\obj\Debug\net6.0\LojinhaServer.csproj.AssemblyReference.cache
+C:\Users\etec\Desktop\LojinhaMongoDB\LojinhaServer\obj\Debug\net6.0\LojinhaServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etec\Desktop\LojinhaMongoDB\LojinhaServer\obj\Debug\net6.0\LojinhaServer.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\LojinhaMongoDB\LojinhaServer\obj\Debug\net6.0\LojinhaServer.AssemblyInfo.cs
+C:\Users\etec\Desktop\LojinhaMongoDB\LojinhaServer\obj\Debug\net6.0\LojinhaServer.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\LojinhaMongoDB\LojinhaServer\obj\Debug\net6.0\LojinhaServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\etec\Desktop\LojinhaMongoDB\LojinhaServer\obj\Debug\net6.0\LojinhaServer.MvcApplicationPartsAssemblyInfo.cache
